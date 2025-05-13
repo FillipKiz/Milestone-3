@@ -134,7 +134,7 @@ function App() {
         </div>
 
         <div style={sectionStyle}>
-          <h3>Gender Diversity</h3>
+          <h3>Gender Diversity(female to male)</h3>
           <GenderDiversityBar data={filteredData} />
         </div>
 
